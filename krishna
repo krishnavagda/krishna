@@ -1,0 +1,12 @@
+install.packages("zoo")
+Installing package into ‘C:/Users/user/Documents/R/win-library/3.6’
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/zoo_1.8-7.zip'
+Content type 'application/zip' length 1107020 bytes (1.1 MB)
+downloaded 1.1 MB
+
+package ‘zoo’ successfully unpacked and MD5 sums checked
+Error in install.packages : ERROR: failed to lock directory ‘C:\Users\user\Documents\R\win-library\3.6’ for modifying
+Try removing ‘C:\Users\user\Documents\R\win-library\3.6/00LOCK’
+
+I am getting that error how to fix it.
